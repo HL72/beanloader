@@ -1,2 +1,3 @@
 class = beans.Personne
 Nom = jeremy
+Age = 10
