@@ -6,8 +6,6 @@ import java.io.IOException;
 import java.lang.reflect.Method;
 import java.util.Properties;
 
-import beans.Personne;
-
 public class BeanLoader {
 
 	/**
